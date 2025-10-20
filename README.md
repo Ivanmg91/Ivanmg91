@@ -48,7 +48,7 @@ Me apasiona la creación de **aplicaciones eficientes, escalables y bien estruct
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | 🚀 [Streaming Calculator](https://github.com/Ivanmg91/TFGv2) | TFG 2DAM | JavaScript, Node.js, React |
-| 📱 [Municipios](https://github.com/Ivanmg91/Sostenibilidad/tree/main/Csv%20%2B%20Java) | Programa para ver municipios | Java |
+| 📱 [Municipios](https://github.com/Ivanmg91/Sostenibilidad) | Programa para ver municipios | Java |
 
 ---
 
